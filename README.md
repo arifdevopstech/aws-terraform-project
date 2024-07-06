@@ -1,3 +1,5 @@
+![main pic](https://github.com/arifdevopstech/aws-terraform-project/assets/173038026/ad8a781a-ef84-41a7-80fd-feaaf277bc08)
+
 # Terraform Project for Setting Up an Infrastructure on AWS
 
 ## Prerequisites

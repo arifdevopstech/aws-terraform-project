@@ -68,4 +68,4 @@ Attach the EC2 instance to the target group.
 Create a listener for the ALB.
 
 #### 2. Create Outputs 
-Define outputs for your resources
+Define outputs for your resources. This output will provide the url for verifying load balancer service.
